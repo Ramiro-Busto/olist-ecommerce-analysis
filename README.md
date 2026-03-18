@@ -21,7 +21,7 @@ End-to-end data analysis project using Python, SQL Server and Power BI on a real
 - **Power BI** — interactive dashboard
 
 ## Project Structure
-\```
+```
 olist-ecommerce-analysis/
 ├── notebooks/
 │   ├── 01_exploracion.ipynb   # EDA
@@ -29,8 +29,21 @@ olist-ecommerce-analysis/
 ├── sql/
 │   └── 01_analisis_rentabilidad.sql  # Analytical queries
 └── .gitignore
-\```
+```
 
 ## Dataset
 [Brazilian E-Commerce by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k orders, 9 tables, 2016-2018
->>>>>>> Stashed changes:README.md
+
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary Top](images/page1_top.png)
+![Executive Summary Bottom](images/page1_bottom.png)
+
+### Product & Category Analysis
+![Product Analysis Top](images/page2_top.png)
+![Product Analysis Bottom](images/page2_bottom.png)
+
+### Logistics & Satisfaction
+![Logistics Top](images/page3_top.png)
+![Logistics Bottom](images/page3_bottom.png)
