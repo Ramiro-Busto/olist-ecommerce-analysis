@@ -1,0 +1,5 @@
+.vscode/
+data/raw/
+__pycache__/
+*.pyc
+*.pbix
